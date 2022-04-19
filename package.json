@@ -1,0 +1,19 @@
+{
+  "name": "sf_951_gilev_artem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array_func.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artik59ru/sf_951.git"
+  },
+  "author": "Gilev Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artik59ru/sf_951/issues"
+  },
+  "homepage": "https://github.com/Artik59ru/sf_951#readme"
+}
