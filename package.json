@@ -1,8 +1,8 @@
 {
-  "name": "sf_951_gilev_artem",
+  "name": "array_random_delete_gilev_artem",
   "version": "1.0.0",
   "description": "",
-  "main": "array_func.js",
+  "main": "array_random.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
